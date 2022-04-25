@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 6
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Irna Purnahasanah] - [2010631170014]
 Fajri Yanti - 2010631170069
 - [Diki Candra Permana Yuda] - [2010631170064 ]
 - [Faiz Agil Firmansyah] - [2010631170067]
