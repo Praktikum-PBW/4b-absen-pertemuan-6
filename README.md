@@ -7,6 +7,7 @@ Fajri Yanti - 2010631170069
 - [Bayu Wildan Bahari] - [2010631170059]
 - [Elvin Alan Pratama] - [2010631170065]
 - [Fadhillah Ramadhan] - [2010631170066 ]
+- [Fajar Athariq] - [2010631170068 ]
 - [Annisa Rahma Putri] - [2010631170055 ]
 -[Assyifa Khalif] - [2010631170058 ]
 - [Cahya Diantoni] - [2010631170060]
