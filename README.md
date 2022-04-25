@@ -5,6 +5,7 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Bayu Wildan Bahari] - [2010631170059]
 - [Elvin Alan Pratama] - [2010631170065]
 - [Fadhillah Ramadhan] - [2010631170066 ]
+- [Dela Amaliya] - [2010631170062]
 - [Iqbal Kurniawan] - [2010631170012]
 - [Dwi Putra Ardiansyah] - [2010631170142]
 - [Ardianto Nugroho] - [2010631170056]
