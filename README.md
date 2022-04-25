@@ -3,3 +3,5 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [Fadhillah Ramadhan] - [2010631170066 ]
 - [Indira Nur Amalia] - [2010631170011]
+- [Damareindra Ihya Ullummuddien] - [2010631170061 ]
+- [Irfan Maulana] - [2010631170013
